@@ -13,7 +13,7 @@ Preprocess the raw data
 Tune the models
 Compare two or more models
 
-REPORTING
+REPORTING!!!!!
 
 The forest model yielded better results than using the SVM model. It recorded a slightly higher accuracy with or without GridSearchCV.
 With an accuracy of 90%, the forest model is an excellent predictor of new exoplanets. However,a model leveraging deep learning techniques may prove superior.
